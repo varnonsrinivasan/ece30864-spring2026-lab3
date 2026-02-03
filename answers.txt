@@ -1,1 +1,7 @@
+(a) Agile development allows teams to adapt quickly to changing requirements compared to non-Agile approaches.
+Agile delivers working software more frequently, enabling faster feedback than non-Agile methods.
+Agile can result in less predictable schedules and costs than non-Agile development.
+Agile requires more constant communication and stakeholder involvement than non-Agile approaches.
+
+
 
