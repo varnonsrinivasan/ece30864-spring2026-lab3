@@ -1,0 +1,22 @@
+(a) Agile development allows teams to adapt quickly to changing requirements compared to non-Agile approaches.
+Agile delivers working software more frequently, enabling faster feedback than non-Agile methods.
+Agile can result in less predictable schedules and costs than non-Agile development.
+Agile requires more constant communication and stakeholder involvement than non-Agile approaches.
+
+
+
+(b) The Scrum Master ensures the Scrum process is followed, removes obstacles, and helps the team work efficiently.
+The Product Owner defines and prioritizes requirements and represents stakeholder and customer needs.
+
+(c) 
+Sprint Planning: The team discusses what work will be completed during the sprint and breaks down backlog items into tasks,
+while also clarifying goals and priorities.
+Daily Stand-Up: Team members share what they worked on, what they plan to work on next, and discuss any blockers or issues.
+Sprint Review (Retrospective): The team reviews completed work with stakeholders and discusses what went well, what didn’t, 
+and how to improve in the next sprint.
+
+(d)
+An Epic is a large body of work that represents a major feature or objective and is broken down into multiple stories.
+A Story describes a specific user-facing requirement or feature that delivers value and can be completed within a sprint.
+A Bug represents a defect or error in the product that causes incorrect or unexpected behavior and needs to be fixed.
+A Task is a piece of work that needs to be completed but does not necessarily deliver direct user value, such as setup or maintenance work.
