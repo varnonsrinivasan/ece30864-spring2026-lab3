@@ -7,3 +7,10 @@ Agile requires more constant communication and stakeholder involvement than non-
 
 (b) The Scrum Master ensures the Scrum process is followed, removes obstacles, and helps the team work efficiently.
 The Product Owner defines and prioritizes requirements and represents stakeholder and customer needs.
+
+(c) 
+Sprint Planning: The team discusses what work will be completed during the sprint and breaks down backlog items into tasks,
+while also clarifying goals and priorities.
+Daily Stand-Up: Team members share what they worked on, what they plan to work on next, and discuss any blockers or issues.
+Sprint Review (Retrospective): The team reviews completed work with stakeholders and discusses what went well, what didn’t, 
+and how to improve in the next sprint.
