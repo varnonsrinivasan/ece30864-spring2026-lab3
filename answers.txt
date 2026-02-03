@@ -5,3 +5,5 @@ Agile requires more constant communication and stakeholder involvement than non-
 
 
 
+(b) The Scrum Master ensures the Scrum process is followed, removes obstacles, and helps the team work efficiently.
+The Product Owner defines and prioritizes requirements and represents stakeholder and customer needs.
